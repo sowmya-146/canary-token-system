@@ -21,7 +21,7 @@ A web-based canary token system that creates fake tracking URLs. When attackers 
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/canary-token-system.git
+git clone https://github.com/sowmya-146/canary-token-system.git
 
 # Go to folder
 cd canary-token-system
