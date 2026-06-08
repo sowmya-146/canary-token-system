@@ -37,7 +37,7 @@ echo "SECRET_KEY=your_secret" >> .env
 # Run the app
 python app.py
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard-with-trigger.png)
