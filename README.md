@@ -36,3 +36,17 @@ echo "SECRET_KEY=your_secret" >> .env
 
 # Run the app
 python app.py
+
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard-with-trigger.png)
+
+### Create Token
+![Create Token](screenshots/token-created.png)
+
+### Telegram Alert (Working!)
+![Telegram Alert](screenshots/telegram-alert.png)
+
+### Fake 404 Page (Attacker View)
+![Fake 404](screenshots/fake-404.png)
