@@ -16,7 +16,7 @@
 
 ## 📊 What is Canary Token System?
 
-**Canary Token System** is a **production-ready deception technology** platform for SOC (Security Operations Center) and Blue Team operations. It creates fake tracking URLs (canary tokens) that act as digital tripwires - when attackers or unauthorized users access these URLs, you receive **instant Telegram alerts** with detailed attacker intelligence.
+**Canary Token System** is a **deception technology** platform for SOC (Security Operations Center) and Blue Team operations. It creates fake tracking URLs (canary tokens) that act as digital tripwires - when attackers or unauthorized users access these URLs, you receive **instant Telegram alerts** with detailed attacker intelligence.
 
 ### Why Use Canary Tokens?
 
